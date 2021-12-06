@@ -1,7 +1,7 @@
 Export of Github issues for [gifhuppp/gh2md](https://github.com/gifhuppp/gh2md).
 
 # [\#1 PR](https://github.com/gifhuppp/gh2md/pull/1) `open`: [pull] master from mattduck:master
-**Labels**: `:arrow_heading_down: pull`
+**Labels**: `:arrow_heading_down: pull`, `merge-conflict`
 
 
 #### <img src="https://avatars.githubusercontent.com/in/12910?v=4" width="50">[pull](https://github.com/apps/pull) opened issue at [2021-12-04 02:03](https://github.com/gifhuppp/gh2md/pull/1):
